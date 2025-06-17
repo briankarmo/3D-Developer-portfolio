@@ -49,11 +49,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        As a Full-Stack Developer, I bring expertise in both frontend and backend technologies,
-        creating seamless web and mobile applications. I specialize in modern JavaScript frameworks
-        like React.js for dynamic user interfaces, and Node.js for robust server-side solutions.
-        My approach combines technical excellence with creative problem-solving to deliver
-        scalable, user-centered applications that drive business value.
+        As a Full-Stack Developer, I specialize in building end-to-end solutions using both modern JavaScript and PHP technologies. My expertise includes the MERN stack (MongoDB, Express.js, React.js, Node.js) for scalable, high-performance web applications, as well as PHP/Laravel for robust backend systems. I create seamless, responsive user experiences with frameworks like React.js and Next.js, and develop secure, efficient APIs and server-side logic. My approach blends technical depth with creative problem-solving to deliver applications that are scalable, maintainable, and tailored to business needs.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10 justify-center'>

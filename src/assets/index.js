@@ -25,11 +25,13 @@ import laravel from "./tech/laravel.png";
 import next from "./tech/next.png";
 import postgresql from "./tech/postgresql.webp";
 import python from "./tech/python.png";
+import mern from "./mern.png";
 
 // Project images
 import bkcodetube from "./bkcodetube.png";
 import modernapp from "./modern.png";
 import shutterProject from "./shutter.png";
+import weather from "./weather.png";
 
 export {
   logo,
@@ -58,7 +60,9 @@ export {
   next,
   postgresql,
   python,
+  mern,
   bkcodetube,
   modernapp,
   shutterProject,
+  weather,
 };
